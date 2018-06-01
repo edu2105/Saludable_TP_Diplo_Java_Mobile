@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecione um app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVAR"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVAR"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="additional_data_text_view">Dados Adicionais</string>
+    <string name="alert_dialog_message">¿Tem certeza que deseja Sair?</string>
+    <string name="alert_dialog_negative_option">Não</string>
+    <string name="alert_dialog_positive_option">Sim</string>
+    <string name="alert_dialog_title">¿Deseja Sair?</string>
+    <string name="anorexy_radio_button">Anorexia</string>
+    <string name="app_name">Saludable</string>
+    <string name="breakfast_radio_button">Café da manhã</string>
+    <string name="brunch_radio_button">Lanche</string>
+    <string name="bulimia_radio_button">Bulimia</string>
+    <string name="continue_login">Manter Sessão</string>
+    <string name="daily_meal_text_view">Tipo de Comida</string>
+    <string name="data_activity">Complete o Relatório</string>
+    <string name="data_saved">Dados Salvados</string>
+    <string name="dessert_edit_text">Sobremesa</string>
+    <string name="dessert_question_text_view">¿Sobremesa engolida?</string>
+    <string name="dinner_radio_button">Janta</string>
+    <string name="drink_edit_text">Bebida</string>
+    <string name="gender_female">Femenino</string>
+    <string name="gender_male">Masculino</string>
+    <string name="gender_text_view">Gênero</string>
+    <string name="hint_birthdate">Data de Nascimento DD/MM/AA</string>
+    <string name="hint_document">Número de Documento</string>
+    <string name="hint_location">Localização</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_password">Senha</string>
+    <string name="hint_surname">Sobrenome</string>
+    <string name="hint_user">Usuario</string>
+    <string name="incorrect_password_error">Senha Incorreta</string>
+    <string name="insert_birthdate">Por favor insira uma data de nascimento</string>
+    <string name="insert_dessert">Por favor insira uma sobremesa</string>
+    <string name="insert_document">Por favor insira um documento</string>
+    <string name="insert_drink">Por favor insira uma bebida</string>
+    <string name="insert_if_dessert_taken">Por favor selecione se engoliu sobremesa ou não</string>
+    <string name="insert_if_still_hungry">Por favor selecione se ficou com fome ou não</string>
+    <string name="insert_if_temptation">Por favor selecione se teve uma tentação ou não</string>
+    <string name="insert_location">Por favor insira uma localização</string>
+    <string name="insert_meal_type">Por favor insira um tipo de comida</string>
+    <string name="insert_name">Por favor insira um nome</string>
+    <string name="insert_password">Por favor insira uma senha</string>
+    <string name="insert_principal_meal">Por favor insira uma comida principal</string>
+    <string name="insert_secondary_meal">Por favor insira um acompanhamento</string>
+    <string name="insert_surname">Por favor insira um sobrenome</string>
+    <string name="insert_temptation">Por favor insira o alimento que queria engolir</string>
+    <string name="insert_treatment">Por favor insira um tratamento</string>
+    <string name="insert_user_name">Por favor insira um nome de usuario</string>
+    <string name="launch_radio_button">Almoço</string>
+    <string name="login">Iniciar Sessão</string>
+    <string name="logout_item">Fechar Sessão</string>
+    <string name="meal_temptation_question_text_view">¿Tinha tentação de engolir outro alimento?</string>
+    <string name="no_answer_checkbox">Não</string>
+    <string name="obesity_radio_button">Obesidade</string>
+    <string name="patient_saved">Paciente Salvado</string>
+    <string name="personal_data_text_view">Dados Personais</string>
+    <string name="principal_meal_edit_text">Comida Principal</string>
+    <string name="save_item">Salvar</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string name="secondary_meal_edit_text">Acompanhamento</string>
+    <string name="signup">Fazer Login</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="still_hungry_text_view">¿Ficou com fome?</string>
+    <string name="treatment_type_text_view">Tipo de Tratamento</string>
+    <string name="user_information_text_view">Informação do Usuario</string>
+    <string name="user_not_found_error">Usuario não achado</string>
+    <string name="which_meal_edit_text">Alimento que queria engolir</string>
+    <string name="yes_answer_checkbox">Sim</string>
+</resources>
